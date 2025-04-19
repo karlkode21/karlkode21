@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karlkode21
-- 👀 I’m interested in Python and Music.
+- 👀 I’m interested in WebDev Ops (Python, JavaScript) and Music.
 - 🌱 I’m currently Researching about A.I implementations.
 - 💞️ I’m looking to collaborate on Machine Learning projects.
 - 📫 How to reach me ...
